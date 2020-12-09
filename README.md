@@ -12,9 +12,9 @@ I am on my way to becoming a programmer and Excel master! In this homework assig
 
 ### Files
 
-* [Test Data](Homework 2 - alphabetical_testing.xlsx) - Use this while developing your scripts.
+* (Homework 2 - alphabetical_testing.xlsx) - Use this while developing your scripts.
 
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* (Homework 2 - Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
 ### Stock market analyst
 
@@ -22,7 +22,7 @@ I am on my way to becoming a programmer and Excel master! In this homework assig
 
 ## Instructions
 
-* Create a script that will loop through all the stocks for one year and output the following information.
+* Created a script that looped through all the stocks for one year and output the following information.
 
   * The ticker symbol.
 
@@ -32,9 +32,9 @@ I am on my way to becoming a programmer and Excel master! In this homework assig
 
   * The total stock volume of the stock.
 
-* You should also have conditional formatting that will highlight positive change in green and negative change in red.
+* I also have conditional formatting that will highlight positive change in green and negative change in red.
 
-* The result should look as follows.
+* The result looks as follows.
 
 ![moderate_solution](Images/moderate_solution.png)
 
