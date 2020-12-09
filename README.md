@@ -36,7 +36,7 @@ I am on my way to becoming a programmer and Excel master! In this homework assig
 
 * The result looks as follows.
 
-![moderate_solution](Images/moderate_solution.png)
+![moderate_solution](https://user-images.githubusercontent.com/66078772/101683041-07dea000-3a2a-11eb-8e57-b48e61686a9d.png)
 
 ### CHALLENGES
 
