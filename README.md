@@ -18,7 +18,7 @@ I am on my way to becoming a programmer and Excel master! In this homework assig
 
 ### Stock market analyst
 
-![stock Market](Images/stockmarket.jpg)
+![stockmarket](https://user-images.githubusercontent.com/66078772/101683069-11680800-3a2a-11eb-93c3-d37825327a60.jpg)
 
 ## Instructions
 
@@ -63,7 +63,3 @@ I am on my way to becoming a programmer and Excel master! In this homework assig
 * After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
 
 - - -
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
