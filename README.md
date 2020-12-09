@@ -42,7 +42,7 @@ I am on my way to becoming a programmer and Excel master! In this homework assig
 
 1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
-![hard_solution](Images/hard_solution.png)
+![hard_solution](https://user-images.githubusercontent.com/66078772/101683061-0dd48100-3a2a-11eb-94b4-16d3819ed7c1.png)
 
 2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
